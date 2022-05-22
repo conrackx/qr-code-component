@@ -1,6 +1,5 @@
 /* variables */
 :root {
-
     /* colors */
     --white: hsl(0, 0%, 100%);
     --lightgray: hsl(212, 45%, 89%);
@@ -8,10 +7,21 @@
     --darkblue: hsl(218, 44%, 22%);
 
     /* fonts */
-    --outfit: 'Outfit', sans-serif;
+    --outfit: "Outfit", sans-serif;
 }
-/* Basic reset */
-* {box-sizing: border-box;}
+/* Basic resets */
+* {
+    box-sizing: border-box;
+}
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+html {
+    font-size: 62.5%;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
