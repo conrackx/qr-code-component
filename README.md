@@ -94,3 +94,4 @@ id like to improve this accessibility wise and integrate pug/sass to my developm
 ## Acknowledgments
 
 not many to thank, but htmlreference.io and cssreference.io websites have been gold for me, thanks.
+thanks to @Sdann26 from frontendmentor for helping me with some mistakes in my code.

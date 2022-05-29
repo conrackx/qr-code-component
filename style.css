@@ -22,7 +22,7 @@ html {
 
 body {
     margin: 0;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     display: flex;
     justify-content: space-around;
@@ -56,7 +56,7 @@ body {
 .card-content .card-content--image {
     width: 100%;
     height: auto;
-    border-radius: 1rem;
+    border-radius: 10px;
 }
 
 .card-content--image figure {
@@ -68,7 +68,7 @@ body {
 .card-content--image figure img {
     width: 100%;
     height: 100%;
-    border-radius: 1rem;
+    border-radius: 10px;
 }
 
 .card-content--description {
